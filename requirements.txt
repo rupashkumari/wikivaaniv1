@@ -1,0 +1,9 @@
+streamlit
+wikipediaapi
+speech_recognition
+gtts
+datetime
+requests
+winsound
+io
+PIL
